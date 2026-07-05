@@ -90,6 +90,15 @@ const healthcareAITools = [
       website: "https://www.healthyminds.ai",
       useCase: "Mental health, therapy, stress management",
     },
+    {
+      id: "telo",
+      name: "Telo",
+      type: "Healthcare AI",
+      description: "AI wellness companion for iPhone that reflects on Apple Health context, readiness, recovery, and sleep patterns.",
+      pricing: "Free",
+      website: "https://blynkai.app/telo/",
+      useCase: "Wellness reflection, readiness, recovery, sleep tracking",
+    },
   ];
   
   export default healthcareAITools;
